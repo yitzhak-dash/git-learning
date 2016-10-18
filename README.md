@@ -14,3 +14,5 @@
 ### `git reset HEAD filename`: unstage file from the staging area (SA). This command *reset* the file in the SA to be the same as the `HEAD` commit. 
 test row
 ### `git checkout filename`: restore the file as it did before you last stage the file
+### `git rm filename`:remove file and stage changes.
+ 
