@@ -15,4 +15,6 @@
 test row
 ### `git checkout filename`: restore the file as it did before you last stage the file
 ### `git rm filename`:remove file and stage changes.
- 
+### `git branch`: list branches.
+### `git checkout <hash-commit>`: return to given commit. 
+### '' 
