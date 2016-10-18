@@ -12,3 +12,5 @@
 ### `git show HEAD`: show head
 ### `git checkout HEAD filename`: restore the file in your WD(working directory)as it did when you last made a commit.
 ### `git reset HEAD filename`: unstage file from the staging area (SA). This command *reset* the file in the SA to be the same as the `HEAD` commit. 
+test row
+### `git checkout filename`: restore the file as it did before you last stage the file
