@@ -18,9 +18,9 @@ test row
 ### `git rm filename`:remove file and stage changes.
 ### `git branch`: list branches.
 ### `git checkout <hash-commit>`: return to given commit. 
-### 'git branch <branch-name>': create new branch.
-### 'git checkout <branch-name>`: switch to given branch.
-### 'git merge <branch-name>: takes all changes from given branch and update the current branch.
-### 'git branch -m <origin-branch-name> <new-branch-name> : rename branch.
-### 'git branch -D <branch-name> : delete given branch.
+### `git branch <branch-name>`: create new branch.
+### `git checkout <branch-name>`: switch to given branch.
+### `git merge <branch-name>`: takes all changes from given branch and update the current branch.
+### `git branch -m <origin-branch-name> <new-branch-name>` : rename branch.
+### `git branch -D <branch-name>` : delete given branch.
 
