@@ -19,4 +19,6 @@ test row
 ### `git checkout <hash-commit>`: return to given commit. 
 ### 'git branch <branch-name>': create new branch.
 ### 'git checkout <branch-name>`: switch to given branch.
-SOME Chnages !!! 
+D
+D
+SOME Chnages !!! HERE !!!
