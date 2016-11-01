@@ -23,4 +23,6 @@ test row
 ### `git merge <branch-name>`: takes all changes from given branch and update the current branch.
 ### `git branch -m <origin-branch-name> <new-branch-name>` : rename branch.
 ### `git branch -D <branch-name>` : delete given branch.
+### `git pull --progress "origin"`: get all changes.  
+### `git merge origin/<branch-name>`:  merge given branch.
 
