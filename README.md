@@ -25,5 +25,5 @@ test row
 ### `git branch -D <branch-name>` : delete given branch.
 ### `git pull --progress "origin"`: get all changes.  
 ### `git merge origin/<branch-name>`:  merge given branch.
-### `git checkout -B "<branch-name>" "origin/<branch-name>"` : checkout remote branch
+### `git checkout -B "<branch-name>" "origin/<branch-name>"` : switch remote branch
 
